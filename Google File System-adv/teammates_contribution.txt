@@ -1,0 +1,11 @@
+Load-Balancing:
+Pankaj
+
+Chunk replication
+Vinit
+
+Failure and Copy
+Pankaj, Vinit
+
+Debugging,Testing
+Pankaj,Vinit
